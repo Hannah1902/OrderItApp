@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Order It App</string>
+
+    <!-- Main Activity -->
+    <string name="welcome_activity_label">Business Information</string>
+    <string name="start_scanning">Start New Order</string>
+
+    <!-- Welcome Activity -->
+    <string name="launch_ordering_label">Click here to start ordering!</string>
+    <string name="launch_ordering_aid">If this is the correct business selection, please click on the button below</string>
+    <string name="back_button_label">Go Back</string>
+
+    <!-- Scan Activity -->
+    <string name="scan_label">Scan</string>
+    <string name="checkout_label">Checkout</string>
+
+    <!-- History Activity -->
+    <string name="history_label">Order History</string>
+    <string name="search_by_label">Search By:</string>
+
+    <!-- Checkout Activity -->
+    <string name="order_label">Your Order:</string>
+    <string name="email_label">Send Order</string>
+    <string name="settings_label">Input Settings</string>
+    <string name="cancel_label">Cancel Order</string>
+    <string name="business_label">Business:</string>
+    <string name="customer_label">Customer Info:</string>
+    <string name="order_sent">Sending Order, pick up in 30 minutes</string>
+
+    <!-- Preferences -->
+    <string name="business_name_default">Java Cafe</string>
+    <string name="settings_error">Input user settings!</string>
+    <string name="checkout">Checkout</string>
+    <string name="history">History</string>
+
+    <!-- Error Strings-->
+    <string name="layout_error">Sorry! This Business is not registered</string>
+
+    <!-- Confirm Restart Dialog -->
+    <string name="restart_description">Are you sure you want to delete current order?</string>
+    <string name="confirm_restart">Yes, Restart</string>
+    <string name="cancel_restart">Cancel</string>
+
+    <!-- Customer Preferences -->
+    <string name="default_name">Jane Doe</string>
+    <string name="default_phone_number">123-444-5555</string>
+    <string name="default_email">JaneDoe@gmail.com</string>
+    <string name="default_address">123 Main Street Hollywood CA</string>
+    <string name="dateError">Please enter a date</string>
+    <string name="restaurantError">Please enter a restaurant</string>
+    <string name="historyHeader">ORDER DATE RESTAURANT TOTAL\n</string>
+    <string name="noEmailError">There is no email client installed.</string>
+
+
+</resources>
